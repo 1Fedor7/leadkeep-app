@@ -3,16 +3,28 @@ import { ChartAreaLegend } from "@/components/charts/ChartAreaLegend";
 import { ChartLineMultiple } from "@/components/charts/ChartLineMultiple";
 import { ChartPieInteractive } from "@/components/charts/ChartInteractive";
 import { ChartPieLabel } from "@/components/charts/ChartPieLabel";
+import { ChartLineInteractive } from "@/components/charts/ChartLineInteractive";
 import { ChartRadialShape } from "@/components/charts/ChartRadialShape";
-import { ChartRadarDots } from "@/components/charts/ChartRadarDots";
+import { ChartRadarLegend } from "@/components/charts/ChartRadarLegend";
 import { ChartBarMixed } from "@/components/charts/ChartBarMixed";
 import { ChartTooltipAdvanced } from "@/components/charts/ChartTooltipAdvanced";
 
 export default function Page() {
   return (
     <main className="mx-auto max-w-6xl p-6 space-y-6">
-      <ChartAreaInteractive />
 
+      {/*Übersicht*/}
+      <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
+        <ChartAreaInteractive />
+        <ChartAreaInteractive />
+      </div>
+
+      <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
+        <ChartAreaInteractive />
+        <ChartAreaInteractive />
+      </div>
+
+      {/*Ergebnisse*/}
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
         <ChartAreaLegend />
         <ChartLineMultiple />
@@ -24,14 +36,25 @@ export default function Page() {
       </div>
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
-        <ChartRadialShape />
-        <ChartRadarDots />
+        <ChartPieInteractive />
+        <ChartPieLabel />
       </div>
+
+      {/*Zielgruppe Demografische Angaben*/}
+      <ChartLineMultiple />
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
         <ChartBarMixed />
         <ChartTooltipAdvanced />
       </div>
+
+      {/*Potentielle Zielgruppe*/}
+      <ChartTooltipAdvanced />
+
+      <ChartTooltipAdvanced />
+
+      <ChartTooltipAdvanced />
+      
     </main>
   );
 }
