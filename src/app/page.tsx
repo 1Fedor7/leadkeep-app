@@ -1,13 +1,14 @@
-import { ChartAreaInteractive } from "@/components/charts/ChartPieArea";
+import { ChartAreaStackedExpand } from "@/components/charts/ChartAreaStackedExpand";
 import { ChartAreaLegend } from "@/components/charts/ChartAreaLegend";
-import { ChartLineMultiple } from "@/components/charts/ChartLineMultiple";
-import { ChartPieInteractive } from "@/components/charts/ChartInteractive";
-import { ChartPieLabel } from "@/components/charts/ChartPieLabel";
-import { ChartLineInteractive } from "@/components/charts/ChartLineInteractive";
-import { ChartRadialShape } from "@/components/charts/ChartRadialShape";
-import { ChartRadarLegend } from "@/components/charts/ChartRadarLegend";
-import { ChartBarMixed } from "@/components/charts/ChartBarMixed";
-import { ChartTooltipAdvanced } from "@/components/charts/ChartTooltipAdvanced";
+import { ChartAreaDefault } from "@/components/charts/ChartAreaDefault";
+import { ChartRadarDots } from "@/components/charts/ChartRadarDots";
+import { ChartAreaLinear } from "@/components/charts/ChartAreaLinear";
+import { ChartRadarDefault } from "@/components/charts/ChartRadarDefault";
+import { ChartAreaStep } from "@/components/charts/ChartAreaStep";
+import { ChartRadarGridCustom } from "@/components/charts/ChartRadarGridCustom";
+import { ChartBarStacked } from "@/components/charts/ChartBarStacked";
+import { ChartBarLabelCustom } from "@/components/charts/ChartBarLabelCustom";
+import { ChartPieLegend } from "@/components/charts/ChartPieLegend";
 
 export default function Page() {
   return (
@@ -15,45 +16,47 @@ export default function Page() {
 
       {/*Übersicht*/}
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
-        <ChartAreaInteractive />
-        <ChartAreaInteractive />
+        <ChartAreaStackedExpand />
+        <ChartAreaLegend />
       </div>
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
-        <ChartAreaInteractive />
-        <ChartAreaInteractive />
+        <ChartAreaDefault />
+        <ChartAreaLegend />
       </div>
 
       {/*Ergebnisse*/}
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
-        <ChartAreaLegend />
-        <ChartLineMultiple />
+        <ChartAreaDefault />
+        <ChartRadarDots />
       </div>
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
-        <ChartPieInteractive />
-        <ChartPieLabel />
+        <ChartAreaLinear />
+        <ChartRadarDefault />
       </div>
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
-        <ChartPieInteractive />
-        <ChartPieLabel />
+        <ChartAreaStep />
+        <ChartRadarGridCustom />
       </div>
 
       {/*Zielgruppe Demografische Angaben*/}
-      <ChartLineMultiple />
+      <ChartBarStacked />
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
-        <ChartBarMixed />
-        <ChartTooltipAdvanced />
+        <ChartBarLabelCustom />
+        <ChartBarLabelCustom />
       </div>
 
       {/*Potentielle Zielgruppe*/}
-      <ChartTooltipAdvanced />
+      <ChartPieLegend />
 
-      <ChartTooltipAdvanced />
+      <ChartBarStacked />
 
-      <ChartTooltipAdvanced />
+      <ChartBarLabelCustom />
+
+      <ChartBarLabelCustom />
       
     </main>
   );
