@@ -1,0 +1,6 @@
+Copyright (c) 2026 <Company/Owner>.
+All rights reserved.
+
+This software is proprietary and confidential.
+No part of this software may be used, copied, modified, or distributed
+without a written license agreement from the copyright holder.

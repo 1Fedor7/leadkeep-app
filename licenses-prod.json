@@ -1,0 +1,1132 @@
+{
+  "@babel/runtime@7.28.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@babel/runtime",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@babel/runtime/LICENSE"
+  },
+  "@floating-ui/core@1.7.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/floating-ui/floating-ui",
+    "publisher": "atomiks",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@floating-ui/core",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@floating-ui/core/LICENSE"
+  },
+  "@floating-ui/dom@1.7.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/floating-ui/floating-ui",
+    "publisher": "atomiks",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@floating-ui/dom",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@floating-ui/dom/LICENSE"
+  },
+  "@floating-ui/react-dom@2.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/floating-ui/floating-ui",
+    "publisher": "atomiks",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@floating-ui/react-dom",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@floating-ui/react-dom/LICENSE"
+  },
+  "@floating-ui/utils@0.2.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/floating-ui/floating-ui",
+    "publisher": "atomiks",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@floating-ui/utils",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@floating-ui/utils/LICENSE"
+  },
+  "@img/colour@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lovell/colour",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@img/colour",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@img/colour/LICENSE.md"
+  },
+  "@img/sharp-darwin-arm64@0.34.5": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/lovell/sharp",
+    "publisher": "Lovell Fuller",
+    "email": "npm@lovell.info",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@img/sharp-darwin-arm64",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@img/sharp-darwin-arm64/LICENSE"
+  },
+  "@img/sharp-libvips-darwin-arm64@1.2.4": {
+    "licenses": "LGPL-3.0-or-later",
+    "repository": "https://github.com/lovell/sharp-libvips",
+    "publisher": "Lovell Fuller",
+    "email": "npm@lovell.info",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@img/sharp-libvips-darwin-arm64",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@img/sharp-libvips-darwin-arm64/README.md"
+  },
+  "@next/env@16.1.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/next.js",
+    "publisher": "Next.js Team",
+    "email": "support@vercel.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@next/env",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@next/env/README.md"
+  },
+  "@next/swc-darwin-arm64@16.1.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/next.js",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@next/swc-darwin-arm64",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@next/swc-darwin-arm64/README.md"
+  },
+  "@radix-ui/number@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/number",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/number/README.md"
+  },
+  "@radix-ui/primitive@1.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/primitive",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/primitive/LICENSE"
+  },
+  "@radix-ui/react-accessible-icon@1.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-accessible-icon",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-accessible-icon/LICENSE"
+  },
+  "@radix-ui/react-accordion@1.2.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-accordion",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-accordion/LICENSE"
+  },
+  "@radix-ui/react-alert-dialog@1.1.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-alert-dialog",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-alert-dialog/LICENSE"
+  },
+  "@radix-ui/react-arrow@1.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-arrow",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-arrow/LICENSE"
+  },
+  "@radix-ui/react-aspect-ratio@1.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-aspect-ratio",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-aspect-ratio/LICENSE"
+  },
+  "@radix-ui/react-avatar@1.1.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-avatar",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-avatar/LICENSE"
+  },
+  "@radix-ui/react-checkbox@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-checkbox",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-checkbox/LICENSE"
+  },
+  "@radix-ui/react-collapsible@1.1.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-collapsible",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-collapsible/LICENSE"
+  },
+  "@radix-ui/react-collection@1.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-collection",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-collection/LICENSE"
+  },
+  "@radix-ui/react-compose-refs@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-compose-refs",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-compose-refs/README.md"
+  },
+  "@radix-ui/react-context-menu@2.2.16": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-context-menu",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-context-menu/LICENSE"
+  },
+  "@radix-ui/react-context@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-context",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-context/README.md"
+  },
+  "@radix-ui/react-dialog@1.1.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-dialog",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-dialog/LICENSE"
+  },
+  "@radix-ui/react-direction@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-direction",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-direction/README.md"
+  },
+  "@radix-ui/react-dismissable-layer@1.1.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-dismissable-layer",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-dismissable-layer/LICENSE"
+  },
+  "@radix-ui/react-dropdown-menu@2.1.16": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-dropdown-menu",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-dropdown-menu/LICENSE"
+  },
+  "@radix-ui/react-focus-guards@1.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-focus-guards",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-focus-guards/LICENSE"
+  },
+  "@radix-ui/react-focus-scope@1.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-focus-scope",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-focus-scope/LICENSE"
+  },
+  "@radix-ui/react-form@0.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-form",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-form/LICENSE"
+  },
+  "@radix-ui/react-hover-card@1.1.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-hover-card",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-hover-card/LICENSE"
+  },
+  "@radix-ui/react-id@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-id",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-id/README.md"
+  },
+  "@radix-ui/react-label@2.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-label",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-label/LICENSE"
+  },
+  "@radix-ui/react-menu@2.1.16": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-menu",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-menu/LICENSE"
+  },
+  "@radix-ui/react-menubar@1.1.16": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-menubar",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-menubar/LICENSE"
+  },
+  "@radix-ui/react-navigation-menu@1.2.14": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-navigation-menu",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-navigation-menu/LICENSE"
+  },
+  "@radix-ui/react-one-time-password-field@0.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-one-time-password-field",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-one-time-password-field/LICENSE"
+  },
+  "@radix-ui/react-password-toggle-field@0.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-password-toggle-field",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-password-toggle-field/LICENSE"
+  },
+  "@radix-ui/react-popover@1.1.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-popover",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-popover/LICENSE"
+  },
+  "@radix-ui/react-popper@1.2.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-popper",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-popper/LICENSE"
+  },
+  "@radix-ui/react-portal@1.1.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-portal",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-portal/LICENSE"
+  },
+  "@radix-ui/react-presence@1.1.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-presence",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-presence/LICENSE"
+  },
+  "@radix-ui/react-primitive@2.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-primitive",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-primitive/LICENSE"
+  },
+  "@radix-ui/react-progress@1.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-progress",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-progress/LICENSE"
+  },
+  "@radix-ui/react-radio-group@1.3.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-radio-group",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-radio-group/LICENSE"
+  },
+  "@radix-ui/react-roving-focus@1.1.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-roving-focus",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-roving-focus/LICENSE"
+  },
+  "@radix-ui/react-scroll-area@1.2.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-scroll-area",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-scroll-area/LICENSE"
+  },
+  "@radix-ui/react-select@2.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-select",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-select/LICENSE"
+  },
+  "@radix-ui/react-separator@1.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-separator",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-separator/LICENSE"
+  },
+  "@radix-ui/react-slider@1.3.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-slider",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-slider/LICENSE"
+  },
+  "@radix-ui/react-slot@1.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-slot",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-slot/LICENSE"
+  },
+  "@radix-ui/react-switch@1.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-switch",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-switch/LICENSE"
+  },
+  "@radix-ui/react-tabs@1.1.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-tabs",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-tabs/LICENSE"
+  },
+  "@radix-ui/react-toast@1.2.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-toast",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-toast/LICENSE"
+  },
+  "@radix-ui/react-toggle-group@1.1.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-toggle-group",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-toggle-group/LICENSE"
+  },
+  "@radix-ui/react-toggle@1.1.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-toggle",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-toggle/LICENSE"
+  },
+  "@radix-ui/react-toolbar@1.1.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-toolbar",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-toolbar/LICENSE"
+  },
+  "@radix-ui/react-tooltip@1.2.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-tooltip",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-tooltip/LICENSE"
+  },
+  "@radix-ui/react-use-callback-ref@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-callback-ref",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-callback-ref/README.md"
+  },
+  "@radix-ui/react-use-controllable-state@1.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-controllable-state",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-controllable-state/LICENSE"
+  },
+  "@radix-ui/react-use-effect-event@0.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-effect-event",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-effect-event/LICENSE"
+  },
+  "@radix-ui/react-use-escape-keydown@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-escape-keydown",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-escape-keydown/README.md"
+  },
+  "@radix-ui/react-use-is-hydrated@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-is-hydrated",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-is-hydrated/LICENSE"
+  },
+  "@radix-ui/react-use-layout-effect@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-layout-effect",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-layout-effect/README.md"
+  },
+  "@radix-ui/react-use-previous@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-previous",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-previous/README.md"
+  },
+  "@radix-ui/react-use-rect@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-rect",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-rect/README.md"
+  },
+  "@radix-ui/react-use-size@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-size",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-use-size/README.md"
+  },
+  "@radix-ui/react-visually-hidden@1.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-visually-hidden",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/react-visually-hidden/LICENSE"
+  },
+  "@radix-ui/rect@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/rect",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@radix-ui/rect/README.md"
+  },
+  "@swc/helpers@0.5.15": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/swc-project/swc",
+    "publisher": "강동윤",
+    "email": "kdy1997.dev@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@swc/helpers",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@swc/helpers/LICENSE"
+  },
+  "@types/d3-array@3.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-array",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-array/LICENSE"
+  },
+  "@types/d3-color@3.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-color",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-color/LICENSE"
+  },
+  "@types/d3-ease@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-ease",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-ease/LICENSE"
+  },
+  "@types/d3-interpolate@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-interpolate",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-interpolate/LICENSE"
+  },
+  "@types/d3-path@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-path",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-path/LICENSE"
+  },
+  "@types/d3-scale@4.0.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-scale",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-scale/LICENSE"
+  },
+  "@types/d3-shape@3.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-shape",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-shape/LICENSE"
+  },
+  "@types/d3-time@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-time",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-time/LICENSE"
+  },
+  "@types/d3-timer@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-timer",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/d3-timer/LICENSE"
+  },
+  "@types/pako@2.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/pako",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/pako/LICENSE"
+  },
+  "@types/raf@3.4.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/raf",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/raf/LICENSE"
+  },
+  "@types/react-dom@19.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/react-dom",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/react-dom/LICENSE"
+  },
+  "@types/react@19.2.14": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/react",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/react/LICENSE"
+  },
+  "@types/trusted-types@2.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/trusted-types",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/@types/trusted-types/LICENSE"
+  },
+  "aria-hidden@1.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/theKashey/aria-hidden",
+    "publisher": "Anton Korzunov",
+    "email": "thekashey@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/aria-hidden",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/aria-hidden/LICENSE"
+  },
+  "base64-arraybuffer@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/niklasvh/base64-arraybuffer",
+    "publisher": "Niklas von Hertzen",
+    "email": "niklasvh@gmail.com",
+    "url": "https://hertzen.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/base64-arraybuffer",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/base64-arraybuffer/LICENSE"
+  },
+  "baseline-browser-mapping@2.10.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/web-platform-dx/baseline-browser-mapping",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/baseline-browser-mapping",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/baseline-browser-mapping/LICENSE.txt"
+  },
+  "caniuse-lite@1.0.30001776": {
+    "licenses": "CC-BY-4.0",
+    "repository": "https://github.com/browserslist/caniuse-lite",
+    "publisher": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "http://beneb.info",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/caniuse-lite",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/caniuse-lite/LICENSE"
+  },
+  "canvg@3.0.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/canvg/canvg",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/canvg",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/canvg/LICENSE"
+  },
+  "class-variance-authority@0.7.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/joe-bell/cva",
+    "publisher": "Joe Bell",
+    "url": "https://joebell.co.uk",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/class-variance-authority",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/class-variance-authority/LICENSE"
+  },
+  "client-only@0.0.1": {
+    "licenses": "MIT",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/client-only"
+  },
+  "clsx@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/clsx",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/clsx",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/clsx/license"
+  },
+  "core-js@3.48.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zloirock/core-js",
+    "publisher": "Denis Pushkarev",
+    "email": "zloirock@zloirock.ru",
+    "url": "http://zloirock.ru",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/core-js",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/core-js/LICENSE"
+  },
+  "css-line-break@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/niklasvh/css-line-break",
+    "publisher": "Niklas von Hertzen",
+    "email": "niklasvh@gmail.com",
+    "url": "https://hertzen.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/css-line-break",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/css-line-break/LICENSE"
+  },
+  "csstype@3.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/frenic/csstype",
+    "publisher": "Fredrik Nicol",
+    "email": "fredrik.nicol@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/csstype",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/csstype/LICENSE"
+  },
+  "d3-array@3.2.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/d3/d3-array",
+    "publisher": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-array",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-array/LICENSE"
+  },
+  "d3-color@3.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/d3/d3-color",
+    "publisher": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-color",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-color/LICENSE"
+  },
+  "d3-ease@3.0.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/d3/d3-ease",
+    "publisher": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-ease",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-ease/LICENSE"
+  },
+  "d3-format@3.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/d3/d3-format",
+    "publisher": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-format",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-format/LICENSE"
+  },
+  "d3-interpolate@3.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/d3/d3-interpolate",
+    "publisher": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-interpolate",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-interpolate/LICENSE"
+  },
+  "d3-path@3.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/d3/d3-path",
+    "publisher": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-path",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-path/LICENSE"
+  },
+  "d3-scale@4.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/d3/d3-scale",
+    "publisher": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-scale",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-scale/LICENSE"
+  },
+  "d3-shape@3.2.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/d3/d3-shape",
+    "publisher": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-shape",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-shape/LICENSE"
+  },
+  "d3-time-format@4.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/d3/d3-time-format",
+    "publisher": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-time-format",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-time-format/LICENSE"
+  },
+  "d3-time@3.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/d3/d3-time",
+    "publisher": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-time",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-time/LICENSE"
+  },
+  "d3-timer@3.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/d3/d3-timer",
+    "publisher": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-timer",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/d3-timer/LICENSE"
+  },
+  "decimal.js-light@2.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/MikeMcl/decimal.js-light",
+    "publisher": "Michael Mclaughlin",
+    "email": "M8ch88l@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/decimal.js-light",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/decimal.js-light/LICENCE.md"
+  },
+  "detect-libc@2.1.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/lovell/detect-libc",
+    "publisher": "Lovell Fuller",
+    "email": "npm@lovell.info",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/detect-libc",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/detect-libc/LICENSE"
+  },
+  "detect-node-es@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/thekashey/detect-node",
+    "publisher": "Ilya Kantor",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/detect-node-es",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/detect-node-es/LICENSE"
+  },
+  "dom-helpers@5.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/react-bootstrap/dom-helpers",
+    "publisher": "Jason Quense",
+    "email": "monastic.panic@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/dom-helpers",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/dom-helpers/LICENSE"
+  },
+  "dompurify@3.3.1": {
+    "licenses": "(MPL-2.0 OR Apache-2.0)",
+    "repository": "https://github.com/cure53/DOMPurify",
+    "publisher": "Dr.-Ing. Mario Heiderich, Cure53",
+    "email": "mario@cure53.de",
+    "url": "https://cure53.de/",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/dompurify",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/dompurify/LICENSE"
+  },
+  "eventemitter3@4.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/primus/eventemitter3",
+    "publisher": "Arnout Kazemier",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/eventemitter3",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/eventemitter3/LICENSE"
+  },
+  "fast-equals@5.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/planttheidea/fast-equals",
+    "publisher": "tony_quetano@planttheidea.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/fast-equals",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/fast-equals/LICENSE"
+  },
+  "fast-png@6.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/image-js/fast-png",
+    "publisher": "Michaël Zasso",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/fast-png",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/fast-png/LICENSE"
+  },
+  "fflate@0.8.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/101arrowz/fflate",
+    "publisher": "Arjun Barrett",
+    "email": "arjunbarrett@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/fflate",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/fflate/LICENSE"
+  },
+  "get-nonce@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/theKashey/get-nonce",
+    "publisher": "Anton Korzunov",
+    "email": "thekashey@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/get-nonce",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/get-nonce/LICENSE"
+  },
+  "html-to-image@1.11.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bubkoo/html-to-image",
+    "publisher": "bubkooo",
+    "email": "bubkoo.wy@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/html-to-image",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/html-to-image/LICENSE"
+  },
+  "html2canvas@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/niklasvh/html2canvas",
+    "publisher": "Niklas von Hertzen",
+    "email": "niklasvh@gmail.com",
+    "url": "https://hertzen.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/html2canvas",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/html2canvas/LICENSE"
+  },
+  "internmap@2.0.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/mbostock/internmap",
+    "publisher": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/internmap",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/internmap/LICENSE"
+  },
+  "iobuffer@5.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/image-js/iobuffer",
+    "publisher": "Michaël Zasso",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/iobuffer",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/iobuffer/LICENSE"
+  },
+  "js-tokens@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lydell/js-tokens",
+    "publisher": "Simon Lydell",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/js-tokens",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/js-tokens/LICENSE"
+  },
+  "jspdf@4.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/parallax/jsPDF",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/jspdf",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/jspdf/LICENSE"
+  },
+  "leadkeep-app@0.1.0": {
+    "licenses": "UNLICENSED",
+    "private": true,
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/LICENSES/PROPRIETARY_NOTICE.txt"
+  },
+  "lodash@4.17.23": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/lodash",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/lodash/LICENSE"
+  },
+  "loose-envify@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zertosh/loose-envify",
+    "publisher": "Andres Suarez",
+    "email": "zertosh@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/loose-envify",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/loose-envify/LICENSE"
+  },
+  "lucide-react@0.577.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/lucide-icons/lucide",
+    "publisher": "Eric Fennis",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/lucide-react",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/lucide-react/LICENSE"
+  },
+  "nanoid@3.3.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ai/nanoid",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/nanoid",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/nanoid/LICENSE"
+  },
+  "next@16.1.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/next.js",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/next",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/next/license.md"
+  },
+  "object-assign@4.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/object-assign",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/object-assign",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/object-assign/license"
+  },
+  "pako@2.1.0": {
+    "licenses": "(MIT AND Zlib)",
+    "repository": "https://github.com/nodeca/pako",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/pako",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/pako/LICENSE"
+  },
+  "performance-now@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/braveg1rl/performance-now",
+    "publisher": "Braveg1rl",
+    "email": "braveg1rl@outlook.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/performance-now",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/performance-now/license.txt"
+  },
+  "picocolors@1.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/alexeyraspopov/picocolors",
+    "publisher": "Alexey Raspopov",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/picocolors",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/picocolors/LICENSE"
+  },
+  "postcss@8.4.31": {
+    "licenses": "MIT",
+    "repository": "https://github.com/postcss/postcss",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/next/node_modules/postcss",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/next/node_modules/postcss/LICENSE"
+  },
+  "prop-types@15.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/prop-types",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/prop-types",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/prop-types/LICENSE"
+  },
+  "radix-ui@1.4.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/radix-ui/primitives",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/radix-ui",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/radix-ui/LICENSE"
+  },
+  "raf@3.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chrisdickinson/raf",
+    "publisher": "Chris Dickinson",
+    "email": "chris@neversaw.us",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/raf",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/raf/LICENSE"
+  },
+  "react-dom@19.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-dom",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-dom/LICENSE"
+  },
+  "react-is@16.13.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-is",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-is/LICENSE"
+  },
+  "react-is@18.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/recharts/node_modules/react-is",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/recharts/node_modules/react-is/LICENSE"
+  },
+  "react-remove-scroll-bar@2.3.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/theKashey/react-remove-scroll-bar",
+    "publisher": "Anton Korzunov",
+    "email": "thekashey@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-remove-scroll-bar",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-remove-scroll-bar/README.md"
+  },
+  "react-remove-scroll@2.7.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/theKashey/react-remove-scroll",
+    "publisher": "Anton Korzunov",
+    "email": "thekashey@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-remove-scroll",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-remove-scroll/LICENSE"
+  },
+  "react-smooth@4.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/recharts/react-smooth",
+    "publisher": "JasonHzq",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-smooth",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-smooth/LICENSE"
+  },
+  "react-style-singleton@2.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/theKashey/react-style-singleton",
+    "publisher": "Anton Korzunov",
+    "url": "thekashey@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-style-singleton",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-style-singleton/LICENSE"
+  },
+  "react-transition-group@4.4.5": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/reactjs/react-transition-group",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-transition-group",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react-transition-group/LICENSE"
+  },
+  "react@19.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/react/LICENSE"
+  },
+  "recharts-scale@0.4.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/recharts/recharts-scale",
+    "publisher": "recharts group",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/recharts-scale",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/recharts-scale/LICENSE"
+  },
+  "recharts@2.15.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/recharts/recharts",
+    "publisher": "recharts group",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/recharts",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/recharts/LICENSE"
+  },
+  "regenerator-runtime@0.13.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/regenerator/tree/main/packages/runtime",
+    "publisher": "Ben Newman",
+    "email": "bn@cs.stanford.edu",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/regenerator-runtime",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/regenerator-runtime/LICENSE"
+  },
+  "rgbcolor@1.0.1": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/yetzt/node-rgbcolor",
+    "publisher": "Sebastian Vollnhals",
+    "email": "sebastian@vollnhals.info",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/rgbcolor",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/rgbcolor/LICENSE.md"
+  },
+  "scheduler@0.27.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/scheduler",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/scheduler/LICENSE"
+  },
+  "semver@7.7.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/sharp/node_modules/semver",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/sharp/node_modules/semver/LICENSE"
+  },
+  "sharp@0.34.5": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/lovell/sharp",
+    "publisher": "Lovell Fuller",
+    "email": "npm@lovell.info",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/sharp",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/sharp/LICENSE"
+  },
+  "source-map-js@1.2.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/7rulnik/source-map-js",
+    "publisher": "Valentin 7rulnik Semirulnik",
+    "email": "v7rulnik@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/source-map-js",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/source-map-js/LICENSE"
+  },
+  "stackblur-canvas@2.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/flozz/StackBlur",
+    "publisher": "Mario Klingemann",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/stackblur-canvas",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/stackblur-canvas/LICENSE-MIT.txt"
+  },
+  "styled-jsx@5.1.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/styled-jsx",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/styled-jsx",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/styled-jsx/license.md"
+  },
+  "svg-pathdata@6.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nfroidure/svg-pathdata",
+    "publisher": "Nicolas Froidure",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/svg-pathdata",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/svg-pathdata/LICENSE"
+  },
+  "tailwind-merge@3.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dcastil/tailwind-merge",
+    "publisher": "Dany Castillo",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/tailwind-merge",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/tailwind-merge/LICENSE.md"
+  },
+  "text-segmentation@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/niklasvh/text-segmentation",
+    "publisher": "Niklas von Hertzen",
+    "email": "niklasvh@gmail.com",
+    "url": "https://hertzen.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/text-segmentation",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/text-segmentation/LICENSE"
+  },
+  "tiny-invariant@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexreardon/tiny-invariant",
+    "publisher": "Alex Reardon",
+    "email": "alexreardon@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/tiny-invariant",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/tiny-invariant/LICENSE"
+  },
+  "tslib@2.8.1": {
+    "licenses": "0BSD",
+    "repository": "https://github.com/Microsoft/tslib",
+    "publisher": "Microsoft Corp.",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/tslib",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/tslib/LICENSE.txt"
+  },
+  "use-callback-ref@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/theKashey/use-callback-ref",
+    "publisher": "theKashey",
+    "email": "thekashey@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/use-callback-ref",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/use-callback-ref/LICENSE"
+  },
+  "use-sidecar@1.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/theKashey/use-sidecar",
+    "publisher": "theKashey",
+    "email": "thekashey@gmail.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/use-sidecar",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/use-sidecar/LICENSE"
+  },
+  "use-sync-external-store@1.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/use-sync-external-store",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/use-sync-external-store/LICENSE"
+  },
+  "utrie@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/niklasvh/utrie",
+    "publisher": "Niklas von Hertzen",
+    "email": "niklasvh@gmail.com",
+    "url": "https://hertzen.com",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/utrie",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/utrie/LICENSE"
+  },
+  "victory-vendor@36.9.2": {
+    "licenses": "MIT AND ISC",
+    "repository": "https://github.com/FormidableLabs/victory",
+    "publisher": "Formidable",
+    "path": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/victory-vendor",
+    "licenseFile": "/Users/fedirshtanko/LeadKeep/leadkeep-app/node_modules/victory-vendor/README.md"
+  }
+}
+
