@@ -1,6 +1,8 @@
 import { ChartAreaStackedExpand } from "@/components/charts/ChartAreaStackedExpand";
 import { ChartAreaLegend } from "@/components/charts/ChartAreaLegend";
+import { ChartAreaLegend2 } from "@/components/charts/ChartAreaLegend2";
 import { ChartAreaDefault } from "@/components/charts/ChartAreaDefault";
+import { ChartAreaDefault2 } from "@/components/charts/ChartAreaDefault2";
 import { ChartRadarDots } from "@/components/charts/ChartRadarDots";
 import { ChartAreaLinear } from "@/components/charts/ChartAreaLinear";
 import { ChartRadarDefault } from "@/components/charts/ChartRadarDefault";
@@ -8,7 +10,8 @@ import { ChartAreaStep } from "@/components/charts/ChartAreaStep";
 import { ChartRadarGridCustom } from "@/components/charts/ChartRadarGridCustom";
 import { ChartBarStacked } from "@/components/charts/ChartBarStacked";
 import { ChartBarLabelCustom } from "@/components/charts/ChartBarLabelCustom";
-import { ChartPieLegend } from "@/components/charts/ChartPieLegend";
+import { ChartBarLabelCustom2 } from "@/components/charts/ChartBarLabelCustom2";
+import { ChartPieSimple } from "@/components/charts/ChartPieSimple";
 
 export default function Page() {
   return (
@@ -22,12 +25,12 @@ export default function Page() {
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
         <ChartAreaDefault />
-        <ChartAreaLegend />
+        <ChartAreaLegend2 />
       </div>
 
       {/*Ergebnisse*/}
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
-        <ChartAreaDefault />
+        <ChartAreaDefault2 />
         <ChartRadarDots />
       </div>
 
@@ -46,11 +49,11 @@ export default function Page() {
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
         <ChartBarLabelCustom />
-        <ChartBarLabelCustom />
+        <ChartBarLabelCustom2 />
       </div>
 
       {/*Potentielle Zielgruppe*/}
-      <ChartPieLegend />
+      <ChartPieSimple />
 
       <ChartBarStacked />
 

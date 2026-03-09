@@ -33,22 +33,22 @@ const chartData = [
 
 const chartConfig = {
   desktop: {
-    label: "Von Nicht-Followern",
+    label: "Netto-Abonnenten",
     color: "var(--chart-1)",
   },
   mobile: {
-    label: "Von Followern",
+    label: "Verlorene Follower",
     color: "var(--chart-2)",
   },
 } satisfies ChartConfig
 
-export function ChartAreaLegend() {
+export function ChartAreaLegend2() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Content-Interaktionen</CardTitle>
+        <CardTitle>Neue Follower</CardTitle>
         <CardDescription>
-          So viele „Gefällt mir“-Angaben oder Reaktionen, Kommentare und Antworten gab es in Zusammenhang mit deinen Inhalten...
+          So viele Konten sind dir im ausgewählten Zeitraum neu gefolgt.
         </CardDescription>
       </CardHeader>
       <CardContent>

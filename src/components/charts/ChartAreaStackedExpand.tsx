@@ -21,25 +21,25 @@ import {
 export const description = "A stacked area chart with expand stacking"
 
 const chartData = [
-  { month: "January", desktop: 186, mobile: 80, other: 45 },
-  { month: "February", desktop: 305, mobile: 200, other: 100 },
-  { month: "March", desktop: 237, mobile: 120, other: 150 },
+  { month: "Januar", desktop: 186, mobile: 80, other: 45 },
+  { month: "Februar", desktop: 305, mobile: 200, other: 100 },
+  { month: "März", desktop: 237, mobile: 120, other: 150 },
   { month: "April", desktop: 73, mobile: 190, other: 50 },
-  { month: "May", desktop: 209, mobile: 130, other: 100 },
-  { month: "June", desktop: 214, mobile: 140, other: 160 },
+  { month: "Mai", desktop: 209, mobile: 130, other: 100 },
+  { month: "Juni", desktop: 214, mobile: 140, other: 160 },
 ]
 
 const chartConfig = {
   desktop: {
-    label: "Desktop",
+    label: "Betrachter",
     color: "var(--chart-1)",
   },
   mobile: {
-    label: "Mobile",
+    label: "Von Nicht-Followern",
     color: "var(--chart-2)",
   },
   other: {
-    label: "Other",
+    label: "Von Followern",
     color: "var(--chart-3)",
   },
 } satisfies ChartConfig
@@ -48,9 +48,9 @@ export function ChartAreaStackedExpand() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Area Chart - Stacked Expanded</CardTitle>
+        <CardTitle>Aufrufe</CardTitle>
         <CardDescription>
-          Showing total visitors for the last 6months
+          So oft wurde dein Inhalt abgespielt oder angezeigt. Inhalte umfassen Videos, Beiträge, Stories und Werbeanzeigen.
         </CardDescription>
       </CardHeader>
       <CardContent>
@@ -108,10 +108,10 @@ export function ChartAreaStackedExpand() {
         <div className="flex w-full items-start gap-2 text-sm">
           <div className="grid gap-2">
             <div className="flex items-center gap-2 leading-none font-medium">
-              Trending up by 5.2% this month <TrendingUp className="h-4 w-4" />
+              Steigt diesen Monat um 5,2 % <TrendingUp className="h-4 w-4" />
             </div>
             <div className="flex items-center gap-2 leading-none text-muted-foreground">
-              January - June 2024
+              Januar – Juni 2025
             </div>
           </div>
         </div>

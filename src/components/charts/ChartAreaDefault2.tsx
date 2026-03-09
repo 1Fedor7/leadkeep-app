@@ -13,42 +13,36 @@ import {
 } from "@/components/ui/card"
 import {
   ChartContainer,
-  ChartLegend,
-  ChartLegendContent,
   ChartTooltip,
   ChartTooltipContent,
   type ChartConfig,
 } from "@/components/ui/chart"
 
-export const description = "An area chart with a legend"
+export const description = "A simple area chart"
 
 const chartData = [
-  { month: "Januar", desktop: 186, mobile: 80 },
-  { month: "Februar", desktop: 305, mobile: 200 },
-  { month: "März", desktop: 237, mobile: 120 },
-  { month: "April", desktop: 73, mobile: 190 },
-  { month: "Mai", desktop: 209, mobile: 130 },
-  { month: "Juni", desktop: 214, mobile: 140 },
+  { month: "Januar", desktop: 186 },
+  { month: "Februar", desktop: 305 },
+  { month: "März", desktop: 237 },
+  { month: "April", desktop: 73 },
+  { month: "Mai", desktop: 209 },
+  { month: "Juni", desktop: 214 },
 ]
 
 const chartConfig = {
   desktop: {
-    label: "Von Nicht-Followern",
+    label: "Aufrufe",
     color: "var(--chart-1)",
-  },
-  mobile: {
-    label: "Von Followern",
-    color: "var(--chart-2)",
   },
 } satisfies ChartConfig
 
-export function ChartAreaLegend() {
+export function ChartAreaDefault2() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Content-Interaktionen</CardTitle>
+        <CardTitle>Aufrufe</CardTitle>
         <CardDescription>
-          So viele „Gefällt mir“-Angaben oder Reaktionen, Kommentare und Antworten gab es in Zusammenhang mit deinen Inhalten...
+          So oft wurde dein Inhalt abgespielt oder angezeigt. Inhalte umfassen Videos, Beiträge, Stories und Werbeanzeigen.
         </CardDescription>
       </CardHeader>
       <CardContent>
@@ -74,22 +68,12 @@ export function ChartAreaLegend() {
               content={<ChartTooltipContent indicator="line" />}
             />
             <Area
-              dataKey="mobile"
-              type="natural"
-              fill="var(--color-mobile)"
-              fillOpacity={0.4}
-              stroke="var(--color-mobile)"
-              stackId="a"
-            />
-            <Area
               dataKey="desktop"
               type="natural"
               fill="var(--color-desktop)"
               fillOpacity={0.4}
               stroke="var(--color-desktop)"
-              stackId="a"
             />
-            <ChartLegend content={<ChartLegendContent />} />
           </AreaChart>
         </ChartContainer>
       </CardContent>

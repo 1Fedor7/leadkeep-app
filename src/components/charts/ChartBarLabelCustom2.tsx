@@ -20,16 +20,16 @@ import {
 export const description = "A bar chart with a custom label"
 
 const chartData = [
-  { month: "Pforzheim", desktop: 186, mobile: 80 },
-  { month: "Karlsruhe", desktop: 305, mobile: 200 },
-  { month: "Wilferdingen", desktop: 237, mobile: 120 },
-  { month: "Mühlacker", desktop: 73, mobile: 190 },
-  { month: "Stuttgart", desktop: 209, mobile: 130 },
-  { month: "Birkenfeld", desktop: 214, mobile: 140 },
-  { month: "Bretten", desktop: 214, mobile: 140 },
-  { month: "Niefern-Öschelbronn", desktop: 214, mobile: 140 },
-  { month: "München", desktop: 214, mobile: 140 },
-  { month: "Oberderdingen", desktop: 214, mobile: 140 },
+  { month: "Deutschland", desktop: 305, mobile: 200 },  
+  { month: "USA", desktop: 186, mobile: 80 },
+  { month: "Österreich", desktop: 237, mobile: 120 },
+  { month: "Mauritius", desktop: 73, mobile: 190 },
+  { month: "Niederlande", desktop: 209, mobile: 130 },
+  { month: "Schweiz", desktop: 214, mobile: 140 },
+  { month: "Australien", desktop: 214, mobile: 140 },
+  { month: "Neuseeland", desktop: 214, mobile: 140 },
+  { month: "Schweden", desktop: 214, mobile: 140 },
+  { month: "Südafrika", desktop: 214, mobile: 140 },
 ]
 
 const chartConfig = {
@@ -46,11 +46,11 @@ const chartConfig = {
   },
 } satisfies ChartConfig
 
-export function ChartBarLabelCustom() {
+export function ChartBarLabelCustom2() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Top-Städte</CardTitle>
+        <CardTitle>Top-Länder</CardTitle>
       </CardHeader>
       <CardContent>
         <ChartContainer config={chartConfig}>

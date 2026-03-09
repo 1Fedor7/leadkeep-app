@@ -21,17 +21,17 @@ import {
 export const description = "A simple area chart"
 
 const chartData = [
-  { month: "January", desktop: 186 },
-  { month: "February", desktop: 305 },
-  { month: "March", desktop: 237 },
+  { month: "Januar", desktop: 186 },
+  { month: "Februar", desktop: 305 },
+  { month: "März", desktop: 237 },
   { month: "April", desktop: 73 },
-  { month: "May", desktop: 209 },
-  { month: "June", desktop: 214 },
+  { month: "Mai", desktop: 209 },
+  { month: "Juni", desktop: 214 },
 ]
 
 const chartConfig = {
   desktop: {
-    label: "Desktop",
+    label: "Aufrufe auf Facebook",
     color: "var(--chart-1)",
   },
 } satisfies ChartConfig
@@ -40,9 +40,9 @@ export function ChartAreaDefault() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Area Chart</CardTitle>
+        <CardTitle>Aufrufe auf Facebook</CardTitle>
         <CardDescription>
-          Showing total visitors for the last 6 months
+          So oft wurde deine Facebook-Seite bzw. dein Facebook-Profil aufgerufen.
         </CardDescription>
       </CardHeader>
       <CardContent>
@@ -81,10 +81,10 @@ export function ChartAreaDefault() {
         <div className="flex w-full items-start gap-2 text-sm">
           <div className="grid gap-2">
             <div className="flex items-center gap-2 leading-none font-medium">
-              Trending up by 5.2% this month <TrendingUp className="h-4 w-4" />
+              Steigt diesen Monat um 5,2 % <TrendingUp className="h-4 w-4" />
             </div>
             <div className="flex items-center gap-2 leading-none text-muted-foreground">
-              January - June 2024
+              Januar – Juni 2025
             </div>
           </div>
         </div>

@@ -21,17 +21,17 @@ import {
 export const description = "A radar chart with a custom grid"
 
 const chartData = [
-  { month: "January", desktop: 186 },
-  { month: "February", desktop: 305 },
-  { month: "March", desktop: 237 },
+  { month: "Januar", desktop: 186 },
+  { month: "Februar", desktop: 305 },
+  { month: "März", desktop: 237 },
   { month: "April", desktop: 273 },
-  { month: "May", desktop: 209 },
-  { month: "June", desktop: 214 },
+  { month: "Mai", desktop: 209 },
+  { month: "Juni", desktop: 214 },
 ]
 
 const chartConfig = {
   desktop: {
-    label: "Desktop",
+    label: "Neue Facebook-Follower",
     color: "var(--chart-1)",
   },
 } satisfies ChartConfig
@@ -40,9 +40,9 @@ export function ChartRadarGridCustom() {
   return (
     <Card>
       <CardHeader className="items-center pb-4">
-        <CardTitle>Radar Chart - Grid Custom</CardTitle>
+        <CardTitle>Neue Facebook-Follower</CardTitle>
         <CardDescription>
-          Showing total visitors for the last 6 months
+          So viele Konten sind dir im ausgewählten Zeitraum neu gefolgt.
         </CardDescription>
       </CardHeader>
       <CardContent className="pb-0">
@@ -67,10 +67,10 @@ export function ChartRadarGridCustom() {
       </CardContent>
       <CardFooter className="flex-col gap-2 text-sm">
         <div className="flex items-center gap-2 leading-none font-medium">
-          Trending up by 5.2% this month <TrendingUp className="h-4 w-4" />
+          Steigt diesen Monat um 5,2 % <TrendingUp className="h-4 w-4" />
         </div>
         <div className="flex items-center gap-2 leading-none text-muted-foreground">
-          January - June 2024
+          Januar – Juni 2025
         </div>
       </CardFooter>
     </Card>

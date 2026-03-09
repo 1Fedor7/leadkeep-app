@@ -23,21 +23,21 @@ import {
 export const description = "A stacked bar chart with a legend"
 
 const chartData = [
-  { month: "January", desktop: 186, mobile: 80 },
-  { month: "February", desktop: 305, mobile: 200 },
-  { month: "March", desktop: 237, mobile: 120 },
-  { month: "April", desktop: 73, mobile: 190 },
-  { month: "May", desktop: 209, mobile: 130 },
-  { month: "June", desktop: 214, mobile: 140 },
+  { month: "18-24", desktop: 186, mobile: 80 },
+  { month: "25-34", desktop: 305, mobile: 200 },
+  { month: "35-44", desktop: 237, mobile: 120 },
+  { month: "45-54", desktop: 73, mobile: 190 },
+  { month: "55-64", desktop: 209, mobile: 130 },
+  { month: "65+", desktop: 214, mobile: 140 },
 ]
 
 const chartConfig = {
   desktop: {
-    label: "Desktop",
+    label: "Männer",
     color: "var(--chart-1)",
   },
   mobile: {
-    label: "Mobile",
+    label: "Frauen",
     color: "var(--chart-2)",
   },
 } satisfies ChartConfig
@@ -46,8 +46,8 @@ export function ChartBarStacked() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Bar Chart - Stacked + Legend</CardTitle>
-        <CardDescription>January - June 2024</CardDescription>
+        <CardTitle>Alter und Geschlecht</CardTitle>
+        <CardDescription>Aggregierte demografische Daten basieren auf einer Reihe von Faktoren wie beispielsweise Angaben zu Alter und Geschlecht, die Nutzer in ihren Facebook- und Instagram-Profilen machen. Diese Zahl ist ein Schätzwert.</CardDescription>
       </CardHeader>
       <CardContent>
         <ChartContainer config={chartConfig}>
@@ -58,7 +58,7 @@ export function ChartBarStacked() {
               tickLine={false}
               tickMargin={10}
               axisLine={false}
-              tickFormatter={(value) => value.slice(0, 3)}
+              tickFormatter={(value) => value.slice(0, 5)}
             />
             <ChartTooltip content={<ChartTooltipContent hideLabel />} />
             <ChartLegend content={<ChartLegendContent />} />
@@ -79,10 +79,10 @@ export function ChartBarStacked() {
       </CardContent>
       <CardFooter className="flex-col items-start gap-2 text-sm">
         <div className="flex gap-2 leading-none font-medium">
-          Trending up by 5.2% this month <TrendingUp className="h-4 w-4" />
+          Steigt diesen Monat um 5,2 % <TrendingUp className="h-4 w-4" />
         </div>
         <div className="leading-none text-muted-foreground">
-          Showing total visitors for the last 6 months
+          Besucher insgesamt in den letzten 6 Monaten
         </div>
       </CardFooter>
     </Card>
